@@ -59,4 +59,6 @@ The revised criteria for the mentorship that I suggested would provide an adequa
 engineering mentors, with nearly 10,000 Senior Engineers, Engineers, and Assistant Engineers among the 
 mentorship group. 
 
+![RVG Count](https://github.com/greensleeves8/Pewlett_Hackard_Analysis/blob/main/Resources/RVG_Count.png)
+
 
