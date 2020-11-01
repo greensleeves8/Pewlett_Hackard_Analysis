@@ -55,12 +55,8 @@ The revised group of mentors reflects a proportional amount of potential enginee
 
 ![Revised Mentor Group](https://github.com/greensleeves8/Pewlett_Hackard_Analysis/blob/main/Resources/Revised_Mentor_group.png) 
 
+The revised criteria for the mentorship that I suggested would provide an adequate amount of potential
+engineering mentors, with nearly 10,000 Senior Engineers, Engineers, and Assistant Engineers among the 
+mentorship group. 
 
-Provide high-level responses to the following questions then provide two 
-additional queries or tables that may provide more insight into the upcoming
-"silver tsunami"
-- How manhy roles will need to be filled as the "silver tsunami" begins to
- make an impact?
--Are there enough qualified, retirement-ready employees in the departments
-to mentor the next generation of Pewlett Hackard employees?
 
